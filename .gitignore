@@ -1,0 +1,15 @@
+dev/._fonts
+dev/._img
+dev/._index.html
+dev/._js
+dev/._style
+dev/._template
+dev/fonts/._OpenSans-Regular.ttf
+dev/img/._devil.png
+dev/js/._main.js
+dev/js/._partials
+dev/js/partials/._helper.js
+dev/style/._main.scss
+dev/style/._partials
+dev/template/._footer.html
+dev/template/._head.html
